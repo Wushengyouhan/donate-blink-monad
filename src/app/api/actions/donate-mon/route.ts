@@ -34,7 +34,7 @@ export const GET = async (req: Request) => {
     label: "1 MON",
     title: "Donate MON",
     description:
-      "This Blink demonstrates how to donate MON on the Monad blockchain. It is a part of the official Blink Starter Guides by Dialect Labs.  \n\nLearn how to build this Blink: https://dialect.to/docs/guides/donate-mon",
+      "This Blink demonstrates how to donate MON on the Monad blockchain. It is a part of the official Blink Starter Guides by Dialect Labs. ",
     // Links is used if you have multiple actions or if you need more than one params
     links: {
       actions: [
